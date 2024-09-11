@@ -15,13 +15,13 @@
 
 - 組織
   - [nekonata-team](https://github.com/nekonata-team)
-    - 5人程度のチームでチーム開発を行っている
+    - 7人程度のチームでチーム開発を行っている
 
 - モバイルアプリ開発
   - [Billee](https://billee.nekonata.dev/)
-    - 見せない位置情報共有アプリ。PMの立場でPRレビューやissue管理をしたり、DBやバックエンドなどの全体の設計を行った
+    - 見せない位置情報共有アプリ。テックリードのような立場でPRレビューやissue管理をしたり、DBやバックエンドなどの全体の設計を行った
   - [recomen](https://recomen.nekonata.dev/)
-    - 便利なラーメン記録アプリ（開発中）
+    - 便利なラーメン記録アプリ。普段撮るラーメンの画像を共有したり、マップ上で確認したり、AIで分析したりできるアプリ。AIによる分析機能や、バックエンド系の機能を担当
   - [NekonataMap](https://github.com/nekonata-team/nekonata-map)
     - Flutterのためのクロスプラットフォームマップパッケージ。Billeeやrecomenで使用されている
 - ゲーム開発
@@ -35,4 +35,4 @@
 ## ポートフォリオ
 
 [旧ポートフォリオ](https://typhoon-portfolio.web.app/)
-※バックエンドで使用していたHerokuが有料化したため、列挙しているサービスの殆どが動きません
+※バックエンドで使用していたHerokuが有料化したため、列挙しているサービスの殆どが動きません。
